@@ -1,6 +1,7 @@
 print("Welcome to Calculator")
 
 def add(a, b): return a + b
+def subtract(a, b): return a - b
 
 print("Enter the first number")
 num1 = input()
